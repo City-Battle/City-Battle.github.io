@@ -8,8 +8,8 @@
 点击注册按钮，并注册用户。已注册用户直接登录即可。
 点击创建房间，并选择房间类型即可游戏。（非注册用户只能本地游戏）
 ## 下载地址
-本游戏提供win64、andoird和love平台下载。
-[win64](/pub/citybattle_win32.zip)
+本游戏提供win32，win64、andoird和love平台下载。
+[win32](/pub/citybattle_win32.zip)
 [win64](/pub/citybattle_win64.zip)
 [android](/pub/citybattle.apk)
 [love](/pub/game.love)
