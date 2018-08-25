@@ -9,9 +9,10 @@
 点击创建房间，并选择房间类型即可游戏。（非注册用户只能本地游戏）
 ## 下载地址
 本游戏提供win64、andoird和love平台下载。
-[win64](/pub/citybattle.zip)
+[win64](/pub/citybattle_win32.zip)
+[win64](/pub/citybattle_win64.zip)
 [android](/pub/citybattle.apk)
-[love](/pub/citybattle.love)
+[love](/pub/game.love)
 ## 游戏交流
 本游戏还处于内部工程阶段，仍有大量功能待完善，欢迎玩家提出您的宝贵意见及bug反馈。
 QQ群：830810318
